@@ -30,9 +30,10 @@ recipients = [
 ]
 
 amounts = [
-  5000000000000000, // 0.005 ETH
-  5000000000000000  // 0.005 ETH
+  5000000000000000,
+  5000000000000000
 ]
+  // 0.005 ETH for each address
 
 ## 🧑‍💻 Owner
 The deployer address becomes the contract owner automatically.
